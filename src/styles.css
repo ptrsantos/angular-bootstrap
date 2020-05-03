@@ -1,0 +1,6 @@
+@import './app/bootstrap-carousel/bootstrap-carousel.component.css';
+@import './app/table-basic/table-basic.component.css';
+@import './app/table-pagination-complex/table-pagination-complex.component.css';
+@import './app/table-pagination/table-pagination.component.css';
+@import './app/bootstrap-accordion/bootstrap-accordion.component.css';
+@import './app/bootstrap-modal/bootstrap-modal.component.css';
